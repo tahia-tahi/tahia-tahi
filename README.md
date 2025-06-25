@@ -3,6 +3,12 @@
 # 💫 About Me:
 Hi, Tahia here. Thanks for your time and interest. I am a full-stack developer focused on exploring new learning opportunities and love to share my learnings. I’m always open to challenges that help me grow as a developer.<br>
 
+## 🚧 Currently Working On
+- 🔄 Developing **fully functional MERN stack projects** with real-world use cases  
+- 🔐 Exploring **JWT Authentication** in depth for secure API handling  
+- 🧪 Regularly building **mini-experiments** to sharpen my skills and explore new concepts  
+- 🔧 Improving debugging techniques and code optimization through hands-on practice  
+- 📘 Learning advanced React patterns and backend best practices step by step  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tahia.tahi.423422) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahiaofficial1@gmail.com) 
